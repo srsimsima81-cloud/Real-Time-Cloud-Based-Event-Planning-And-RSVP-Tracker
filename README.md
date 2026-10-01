@@ -131,10 +131,10 @@ Open http://localhost:5173.
 
 All are fictional:
 
-- Organizer: `organizer@demo.local` / `Organizer@123`
-- Attendee A: `attendee1@demo.local` / `Attendee@123`
-- Attendee B: `attendee2@demo.local` / `Attendee@123`
-- Attendee C: `attendee3@demo.local` / `Attendee@123`
+- Organizer: `organizer@demo.com` / `Organizer@123`
+- Attendee A: `attendee1@demo.com` / `Attendee@123`
+- Attendee B: `attendee2@demo.com` / `Attendee@123`
+- Attendee C: `attendee3@demo.com` / `Attendee@123`
 
 ## 9. Demo workflow
 
