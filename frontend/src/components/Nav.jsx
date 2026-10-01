@@ -1,0 +1,2 @@
+import {Bell,LogOut,Cloud} from 'lucide-react'; import {useAuth} from '../context/AuthContext';
+export default function Nav(){const {user,logout}=useAuth(); return <header className="nav"><div className="brand"><Cloud size={22}/> CloudEvents</div><div className="nav-right"><span>{user?.name} · {user?.role}</span><button className="iconbtn"><Bell size={18}/></button><button className="ghost" onClick={logout}><LogOut size={16}/> Logout</button></div></header>}
